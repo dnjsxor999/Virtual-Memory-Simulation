@@ -6,7 +6,10 @@
 - page_fault.c - Implement the page fault handler.
 - page_replacement.c - Implement the frame eviction algorithms FIFO and Clock Sweep algorithm. 
 - stats.c - Calculate the Average Memory Access Time (AMAT)
-\n
+
+
+
+
 - mmu.h - Defines the structures used by mmu.c
 - proc.h - Defines the structures used by proc.c
 - pagesim.h - Defines simulation parameters as well as global structures.
